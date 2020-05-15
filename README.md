@@ -43,7 +43,7 @@
 
 原理简单，作用可不小。
 
-![img1](.\files\img1.jpg)
+![img1](files/img1.jpg)
 
 (这图画的好low)
 
@@ -63,7 +63,7 @@
 
 打开软件后，通过新建按钮，新建一组映射，请注意，输入流量必须为域名形式的(不能为ip)。
 
-![img2](.\files\img2.jpg)
+![img2](files/img2.jpg)
 
 添加完这样一组映射，比如：In = http://abc.com Out = http://192.168.1.2:8901
 
